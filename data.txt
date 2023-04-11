@@ -1,0 +1,500 @@
+map | bản đồ
+government | chính phủ
+way | đường
+art | nghệ thuật
+world | thế giới
+computer | máy tính
+people | người
+two | hai
+family | gia đình
+history | lịch sử
+health | sức khỏe
+system | hệ thống
+information | thông tin
+meat | thịt
+year | năm
+thanks | lời cảm ơn
+music | âm nhạc
+person | người
+reading | cách đọc
+method | phương pháp
+data | dữ liệu
+food | thức ăn
+understanding | hiểu biết
+theory | lý thuyết
+law | pháp luật
+bird | chim
+literature | văn chương
+problem | vấn đề
+software | phần mềm
+control | điều khiển
+knowledge | kiến thức
+power | quyền lực
+ability | khả năng
+economics | kinh tế học
+love | tình yêu
+internet | internet
+television | tivi
+science | khoa học
+library | thư viện
+nature | bản chất
+fact | việc
+product | sản phẩm
+idea | ý kiến
+temperature | nhiệt độ
+investment | đầu tư
+area | khu vực
+society | xã hội
+activity | hoạt động
+story | câu chuyện
+industry | ngành công nghiệp
+media | phương tiện truyền thông
+thing | những vật
+oven | lò nướng
+community | cộng đồng
+definition | định nghĩa
+safety | sự an toàn
+quality | chất lượng
+development | phát triển
+language | ngôn ngữ
+management | quản lý
+player | người chơi
+variety | đa dạng
+video | video
+week | tuần
+security | an ninh
+country | nước
+exam | thi
+movie | phim
+organization | cơ quan
+equipment | thiết bị
+physics | vật lý
+analysis | nghiên cứu
+policy | chính sách
+series | loạt
+thought | tư tưởng
+basis | căn cứ
+boyfriend | bạn trai
+direction | phương hướng
+strategy | chiến lược
+technology | công nghệ
+army | quân đội
+camera | máy chụp hình
+freedom | sự tự do
+paper | giấy
+environment | môi trường
+child | trẻ em
+instance | trường hợp
+month | tháng
+truth | sự thật
+marketing | thị trường
+university | trường đại học
+writing | hiện ra, sự viết
+article | điều khoản
+department | bộ
+difference | khác nhau
+goal | mục tiêu
+news | tin tức
+audience | khán giả
+fishing | câu cá
+growth | sự tăng trưởng
+income | lợi tức
+marriage | hôn nhân
+user | người sử dụng
+combination | phối hợp
+failure | thất bại
+meaning | nghĩa
+medicine | y học
+philosophy | triết học
+teacher | giáo viên
+communication | liên lạc
+night | đêm
+chemistry | hóa học
+disease | căn bệnh
+disk | đĩa
+energy | năng lượng
+nation | quốc gia
+road | đường
+role | vai trò
+soup | soup
+advertising | quảng cáo
+location | vị trí
+success | sự thành công
+addition | thêm vào
+apartment | căn hộ
+education | sự giáo dục
+math | toán học
+moment | chốc lát
+painting | bức tranh
+politics | chính trị
+attention | chú ý
+decision | phán quyết
+event | biến cố
+property | bất động sản
+shopping | mua sắm
+student | sinh viên
+wood | gỗ
+competition | cuộc thi
+distribution | phân phát
+entertainment | giải trí
+office | văn phòng
+population | dân số
+president | chủ tịch
+unit | đơn vị
+category | thể loại
+cigarette | thuốc lá
+context | bối cảnh
+introduction | sự giới thiệu
+opportunity | cơ hội
+performance | hiệu suất
+driver | người lái xe
+flight | chuyến bay
+length | chiều dài
+magazine | tạp chí
+newspaper | báo
+relationship | mối quan hệ
+teaching | giảng dạy
+cell | tế bào
+dealer | người chia bài
+debate | tranh luận
+finding | phát hiện
+lake | hồ
+member | thành viên
+message | thông điệp
+phone | điện thoại
+scene | sân khấu
+appearance | xuất hiện
+association | sự kết hợp
+concept | khái niệm
+customer | khách hàng
+death | sự chết
+discussion | thảo luận
+housing | nhà ở
+inflation | sự lạm phát
+insurance | bảo hiểm
+mood | khí sắc
+woman | đàn bà
+advice | lời khuyên
+blood | máu
+effort | cố gắng
+expression | biểu hiện
+importance | tầm quan trọng
+opinion | ý kiến
+payment | thanh toán
+reality | thực tế
+responsibility | trách nhiệm
+situation | tình hình
+skill | kỹ năng
+statement | tuyên bố
+wealth | sự giàu có
+application | ứng dụng
+city | thành phố
+county | quận
+depth | chiều sâu
+estate | tài sản
+foundation | nền tảng
+grandmother | bà ngoại
+heart | tim
+perspective | quan điểm
+photo | ảnh
+recipe | công thức
+studio | phòng thu
+topic | chủ đề
+collection | bộ sưu tập
+depression | phiền muộn
+imagination | sự tưởng tượng
+passion | tình yêu
+percentage | tỷ lệ phần trăm
+resource | tài nguyên
+setting | thiết lập
+ad | quảng cáo
+agency | đại lý
+college | trường đại học
+connection | liên quan
+criticism | sự chỉ trích
+debt | nợ nần
+description | miêu tả
+memory | trí nhớ
+patience | kiên nhẫn
+secretary | thư ký
+solution | dung dịch
+administration | quyền quản trị
+aspect | diện mạo
+attitude | thái độ
+director | giám đốc
+personality | nhân cách
+psychology | tâm lý học
+recommendation | khuyến nghị
+response | câu trả lời
+selection | sự lựa chọn
+storage | lưu trữ
+version | phiên bản
+alcohol | rượu
+argument | đối số
+complaint | lời phàn nàn
+contract | hợp đồng
+emphasis | sự nhấn mạnh
+highway | xa lộ
+loss | sự mất
+membership | thành viên
+possession | sở hữu
+preparation | sự chuẩn bị
+steak | miếng bò hầm
+union | liên hiệp
+agreement | sự đồng ý
+cancer | ung thư
+currency | tiền tệ
+employment | việc làm
+engineering | kỹ thuật
+entry | lối vào
+interaction | tương tác
+limit | giới hạn
+mixture | hỗn hợp
+preference | sự ưa thích
+region | vùng
+republic | nước cộng hòa
+seat | ghế
+tradition | truyền thống
+virus | virus
+actor | diễn viên
+classroom | lớp học
+delivery | giao hàng
+device | thiết bị
+difficulty | khó khăn
+drama | kịch
+election | sựu bầu cử
+engine | động cơ
+football | bóng đá
+guidance | hướng dẫn
+hotel | khách sạn
+match | trận đấu
+owner | chủ nhân
+priority | quyền ưu tiên
+protection | sự bảo vệ
+suggestion | gợi ý
+tension | sức ép
+variation | sự biến đổi
+anxiety | lo ngại
+atmosphere | không khí
+awareness | nhận thức
+bread | bánh mì
+climate | khí hậu
+comparison | sự so sánh
+confusion | nhầm lẫn
+construction | xây dựng
+elevator | thang máy
+emotion | xúc động
+employee | công nhân
+employer | sử dụng lao động
+guest | khách
+height | chiều cao
+leadership | lãnh đạo
+mall | trung tâm mua sắm
+manager | người quản lý
+operation | hoạt động
+recording | ghi âm
+respect | tôn trọng
+sample | mẫu
+transportation | giao thông vận tải
+boring | chán nản
+charity | bố thí
+cousin | anh em họ
+disaster | thảm họa
+editor | biên tập viên
+efficiency | hiệu quả
+excitement | phấn khích
+extent | mức độ
+feedback | thông tin phản hồi
+guitar | đàn guitar
+homework | bài tập về nhà
+leader | lãnh đạo
+mom | mẹ
+outcome | kết quả
+permission | sự cho phép
+presentation | trình bày
+promotion | khuyến mãi
+reflection | sự phản xạ
+refrigerator | tủ lạnh
+resolution | độ phân giải
+revenue | lợi tức
+session | buổi họp
+singer | ca sĩ
+tennis | quần vợt
+basket | cái giỏ
+bonus | tiền thưởng
+cabinet | buồng
+childhood | thời thơ ấu
+church | nhà thờ
+clothes | quần áo
+coffee | cà phê
+dinner | bữa tối
+drawing | bản vẽ
+hair | tóc
+hearing | thính giác
+initiative | sáng kiến
+judgment | án
+lab | phòng thí nghiệm
+measurement | sự đo lường
+mode | chế độ
+mud | bùn
+orange | trái cam
+poetry | thơ phú
+police | cảnh sát
+possibility | khả năng
+procedure | phương pháp
+queen | nữ hoàng
+ratio | tỉ lệ
+relation | quan hệ
+restaurant | nhà hàng
+satisfaction | sự hài lòng
+sector | khu vực
+signature | chữ ký
+significance | ý nghĩa
+song | bài hát
+tooth | răng, ăn khớp nhau
+town | thành phố
+vehicle | xe cộ
+volume | thể tích
+wife | vợ
+accident | tai nạn
+airport | sân bay
+appointment | cuộc hẹn
+arrival | đi đến nơi, sự đến
+assumption | giả định
+baseball | bóng chày
+chapter | chương
+committee | ủy ban
+conversation | đàm thoại
+database | cơ sở dữ liệu
+enthusiasm | hăng hái
+error | lỗi
+explanation | giải thích
+farmer | nông dân
+gate | cửa
+girl | cô gái
+hall | đại sảnh
+historian | sử gia
+hospital | bệnh viện
+injury | vết thương
+instruction | hướng dẫn
+maintenance | bảo trì
+manufacturer | nhà chế tạo
+meal | bữa ăn
+perception | sự nhận thức
+pie | bánh
+poem | bài thơ
+presence | sự hiện diện
+proposal | đề nghị
+reception | tiếp nhận
+replacement | sự thay thế
+revolution | cuộc cách mạng
+river | sông
+son | con trai
+speech | lời nói
+tea | trà
+village | làng
+warning | cảnh báo
+winner | người chiến thắng
+worker | công nhân
+writer | nhà văn
+assistance | sự giúp trợ
+breath | hơi thở
+buyer | người mua
+chest | ngực
+chocolate | sôcôla
+conclusion | phần kết luận
+contribution | sự đóng góp
+cookie | cookie
+courage | lòng can đảm
+dad | cha
+desk | bàn giấy
+drawer | ngăn kéo
+establishment | thành lập
+examination | kiểm tra
+garbage | đống rác
+grocery | tạp hóa
+honey | mật ong, đường mật, êm dịu
+impression | ấn tượng
+improvement | sự cải thiện
+independence | độc lập
+insect | côn trùng
+inspection | sự kiểm tra
+inspector | viên thanh tra
+king | vua
+ladder | thang
+menu | thực đơn
+penalty | hình phạt
+piano | dương cầm
+potato | khoai tây
+profession | nghề nghiệp
+professor | giáo sư
+quantity | số lượng
+reaction | sự phản ứng
+requirement | yêu cầu
+salad | xà lách
+sister | chị
+supermarket | siêu thị
+tongue | lưỡi
+weakness | yếu đuối
+wedding | kết hôn
+affair | việc
+ambition | tham vọng
+analyst | người phân tích
+apple | táo
+assignment | phân công
+assistant | phụ tá, giúp đỡ
+bathroom | phòng tắm
+bedroom | phòng ngủ
+beer | bia
+birthday | ngày sinh nhật
+celebration | lễ kỷ niệm
+championship | chức vô địch
+cheek | gò má, ngạo mạn
+client | khách hàng
+consequence | kết quả
+departure | khởi hành
+diamond | kim cương
+dirt | bụi
+ear | tai
+fortune | vận may
+friendship | tình bạn
+funeral | đám ma, tang lễ
+gene | gen
+girlfriend | bạn gái
+hat | mũ
+indication | dấu hiệu
+intention | mục đích
+lady | phụ nữ
+midnight | nữa đêm, giữa khuya
+negotiation | đàm phán
+obligation | nghĩa vụ
+passenger | hành khách
+pizza | bánh pizza
+platform | nền tảng
+poet | thi sĩ
+pollution | ô nhiễm
+recognition | sự công nhận
+reputation | danh tiếng
+shirt | áo sơ mi
+sir | ngài
+speaker | loa
+stranger | người lạ
+surgery | phẫu thuật
+sympathy | thông cảm
+tale | truyện
+throat | họng
+trainer | huấn luyện viên
+uncle | chú
+youth | tuổi trẻ
+time | thời gian, định giờ
+work | công việc, hoạt động
+film | phim ảnh, quay phim
+water | nước
+money | tiền
+example | thí dụ
+while | trong khi
+business | kinh doanh
+study | nghiên cứu
+game | trò chơi
+life | đời sống
+form | hình thức
